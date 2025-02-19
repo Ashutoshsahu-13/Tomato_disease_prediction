@@ -1,0 +1,7 @@
+numpy==1.26
+tensorflow==2.17
+keras==3.5
+streamlit
+matplotlib
+
+-e .
