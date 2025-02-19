@@ -26,4 +26,5 @@ CONVOLUTIONAL NEURAL NETWORK(CNN).
 Accuracy=89%
 
 ## web page
+## wedsite link-> https://tomatodiseaseprediction-eaqowiutwtaytqqvdt29mf.streamlit.app/
 ![Reference image](image/Screenshot%20(160).png)
